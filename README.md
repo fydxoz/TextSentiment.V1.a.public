@@ -1,5 +1,7 @@
 #Emotion Detection And Classification of Tweets
 
+The term paper of this work is present [here] (Documents/term_paper.pdf).
+***
 ![Page 2](https://github.com/mjaglan/TextSentiment.V1.a.public/blob/master/Documents/images/2.PNG)
 ***
 ![Page 3](https://github.com/mjaglan/TextSentiment.V1.a.public/blob/master/Documents/images/3.PNG)
