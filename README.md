@@ -1,4 +1,4 @@
-#Fall 2015: Emotion Detection And Classification of Tweets
+#Emotion Detection And Classification of Tweets
 
 ![Page 2](https://github.com/mjaglan/TextSentiment.V1.a.public/blob/master/Documents/images/2.PNG)
 ***
